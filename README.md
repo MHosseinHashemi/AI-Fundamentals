@@ -7,3 +7,5 @@ As a part of the programming assignments during AI course at IASBS, I've impleme
 - IDS
 - UCS
 - Hill Climbing
+- PSO
+- SA
